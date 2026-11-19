@@ -1,4 +1,4 @@
-[dsa2_p011_readme.md](https://github.com/user-attachments/files/35107884/dsa2_p011_readme.md)
+
 # DSA2-P011: Search Autocomplete Engine
 
 A **Search Autocomplete Engine** built for Data Structures & Algorithms (`DSA2-P011`). It indexes **5,600+ weighted words and contacts**, supports dynamic `INSERT`, `UPDATE`, and `DELETE` operations with safe dead-branch pruning, returns either **Top-$K$ ranked suggestions** or **All prefix matches**, tracks query latency, and displays live **prefix traversal** and subtree branches in a web interface.
